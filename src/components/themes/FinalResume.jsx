@@ -4,7 +4,6 @@ import { Button } from "reactstrap";
 import jsPDF from "jspdf";
 import html2canvas from "html2canvas";
 import "../style/finalResume.css";
-import Blueprint from "./blueprint";
 
 export default function Angora() {
   const element = document.getElementById('resume');
