@@ -1,0 +1,33 @@
+.resume-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.resume-page{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 700px;
+}
+
+.info{
+    height: 200px;
+}
+
+
+
+.title{
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-color: rgb(0, 0, 0);
+}
+
+.export-buttons{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px;
+    position: relative;
+    top: 150px;
+}

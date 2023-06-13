@@ -1,0 +1,57 @@
+.themes {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .inputContainer {
+    width: 500px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #F8E8EE;
+    position: relative;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #F2BED1;
+  }
+  
+  .imageContainer {
+    width: 500px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F2BED1;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #F8E8EE;
+  }
+  
+  .templateImage img {
+    width: 330px;
+    border-radius: 30px;
+  }
+  
+  .error {
+    position: absolute;
+    top: 290px;
+  }
+  
+  #SelectTheme,
+  #SelectColor {
+    margin: 10px 0px;
+    width: 300px;
+  }
+  
+  .themeTitle{
+      position: absolute;
+      top: 10%;
+      font-size: 30px;
+  }

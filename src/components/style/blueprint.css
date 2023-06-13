@@ -1,0 +1,15 @@
+.resume-page{
+    height: 700px;
+    width: 700px;
+  }
+  
+  .resume-content .bp3-callout {
+    padding: 10px;
+    border: 1px solid #d7d7d7;
+    border-radius: 4px;
+    background-color: #f5f8fa;
+  }
+  
+  .bp3-callout{
+    height: 200px;
+  }
